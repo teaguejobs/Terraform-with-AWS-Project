@@ -1,4 +1,4 @@
 terraform.tfstate
 .terraform.lock.hcl
 registry.terraform.io
-terraform.tfstate.backup
+*terraform.tfstate.backup
